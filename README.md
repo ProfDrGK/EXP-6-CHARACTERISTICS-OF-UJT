@@ -14,7 +14,9 @@ UJT is the Uni Junction Transistor. It is a three-terminal device. The three ter
 Due to the existing PN junction, there will be a voltage drop. If voltage is applied to the emitter, the device will not turn on until the input voltage is less than the drop across the diode plus the drop at the variable resistance R1.
 When the device is turned on, holes move from emitter to base resulting in a current flow. Due to the sudden increase in charge concentration in the base region, conductivity increases. This causes a drop at base 1. If we further increase the emitter voltage, the device undergoes saturation. Hence UJT has three operating regions: (i) cut-off region, (ii) negative resistance region and (iii) saturation region.
 4. CIRCUIT DIAGRAM
- 
+<img width="1920" height="861" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/bf27a95b-b65c-4140-b4d9-3fe827634dbb" />
+<img width="908" height="460" alt="Screenshot 2026-11-27 102728" src="https://github.com/user-attachments/assets/34219f5e-7f28-4a4c-8cb2-e785352db59b" />
+
 Reference circuit diagram reproduced from the supplied record.
 5. UJT EQUIVALENT CIRCUIT
 The UJT equivalent circuit consists of the inter-base resistance RBB divided into two portions, RB1 and RB2, with the emitter PN junction represented by a diode.
@@ -36,9 +38,8 @@ Find the value of VP from the graph and calculate η. Similarly, determine the i
 9. OBSERVATION
 
 Simulation Results:
-
-
-
+<img width="902" height="455" alt="Screenshot 2026-11-27 102742" src="https://github.com/user-attachments/assets/a4c577cc-f9b0-4ff2-8fbe-a5ba9219073d" />
+<img width="906" height="460" alt="Screenshot 2026-11-27 102756" src="https://github.com/user-attachments/assets/19b12a0a-25c2-48fa-8850-d27088403e5b" />
 
 For VBB = 5 V and VBB = 8 V
 VBB = 5 V		VBB = 8 V	
